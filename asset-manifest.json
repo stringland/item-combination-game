@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/item-combination-game/static/css/main.6d3ec5b5.css",
+    "main.js": "/item-combination-game/static/js/main.f52a54fb.js",
+    "index.html": "/item-combination-game/index.html",
+    "main.6d3ec5b5.css.map": "/item-combination-game/static/css/main.6d3ec5b5.css.map",
+    "main.f52a54fb.js.map": "/item-combination-game/static/js/main.f52a54fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3ec5b5.css",
+    "static/js/main.f52a54fb.js"
+  ]
+}
